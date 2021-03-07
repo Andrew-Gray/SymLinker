@@ -1,0 +1,9 @@
+D:\_DEV\SymLinker\SymLinker\bin\Release\SymLinker.exe.config
+D:\_DEV\SymLinker\SymLinker\bin\Release\SymLinker.exe
+D:\_DEV\SymLinker\SymLinker\bin\Release\SymLinker.pdb
+D:\_DEV\SymLinker\SymLinker\obj\Release\SymLinker.MainForm.resources
+D:\_DEV\SymLinker\SymLinker\obj\Release\SymLinker.Properties.Resources.resources
+D:\_DEV\SymLinker\SymLinker\obj\Release\SymLinker.csproj.GenerateResource.cache
+D:\_DEV\SymLinker\SymLinker\obj\Release\SymLinker.csproj.CoreCompileInputs.cache
+D:\_DEV\SymLinker\SymLinker\obj\Release\SymLinker.exe
+D:\_DEV\SymLinker\SymLinker\obj\Release\SymLinker.pdb
